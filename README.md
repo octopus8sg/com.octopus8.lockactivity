@@ -1,4 +1,4 @@
-# lockactivity
+# com.octopus8.lockactivity
 ![image](https://github.com/weihao-Tey/civicrm-lockactivity/assets/142696206/71e60f13-feeb-47e8-893f-efd3bb590344)
 
 This CiviCRM extension creates a new "Locked" Activity status, which locks an activity for user in CiviCRM.
